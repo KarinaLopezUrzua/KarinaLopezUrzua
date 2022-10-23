@@ -6,8 +6,6 @@
 --
 ### 👩‍💻 Sobre mi:
 
-Here are some ideas to get you started:
-
 - 📫 Puedes contactarme **karina.lopez.inf@gmail.com***
 - 🌱 Actualmente estudio **Certified Tech Developer**
 - ❤️ Apasionada con Front-end
