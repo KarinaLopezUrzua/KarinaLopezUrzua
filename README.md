@@ -1,16 +1,39 @@
-### Hi there 👋
+<div 
+  <h1 align="center"> Hola 👋 soy Karina </h1>
+  <h3 align="center"> Soy Kinesióloga y Full Stack Developer, actualmente continuo estudiando para enfocarme en abrir nuevas puertas y conocimientos en el área de informática </h3>
+</div>
 
-<!--
-**KarinaLopezUrzua/KarinaLopezUrzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--
+### 👩‍💻 Sobre mi:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Puedes contactarme **karina.lopez.inf@gmail.com***
+- 🌱 Actualmente estudio **Certified Tech Developer**
+- ❤️ Apasionada con Front-end
+
+--
+
+<div align="left">
+  <h3> 🛠 Lenguajes y Herramientas: </h3>
+  <div>
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg title="Bootstrap" alt="Boostrap" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg title="PS" alt="PS" width="40" height="40"/>&nbsp;
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  </div>
+</div>
+
+--
+
+### Mis estadísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaLopezUrzua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
