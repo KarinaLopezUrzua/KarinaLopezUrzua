@@ -1,5 +1,7 @@
 <div> 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=753FF7&center=true&width=435&lines=Hola++soy+Karina+%F0%9F%91%8B)](https://git.io/typing-svg)
+ <p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=753FF7&center=verdadero&vCenter=verdadero&width=435&lines=Hola++soy+Karina+%F0%9F%91%8B" alt="Typing SVG" /></a>
+ </p>
   <h3 align="center"> Soy Kinesióloga y Full Stack Developer, actualmente continuo estudiando para enfocarme en abrir nuevas puertas y conocimientos en el área de        informática 
    </h3>
 </div>
