@@ -17,7 +17,7 @@
   <h3> 🛠 Lenguajes y Herramientas: </h3>
   <div>
     <img scr='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' title="HTML" alt="HTML" width="40" height="40"/>
-    <img scr="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+    <img scr='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
     <img scr="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
     <img scr="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img scr="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
