@@ -7,11 +7,11 @@
 --
 ### 👩‍💻 Sobre mi:
 
-- 📫 Puedes contactarme **karina.lopez.inf@gmail.com***
+- 📫 Puedes contactarme **karina.lopez.inf@gmail.com**
 - 🌱 Actualmente estudio **Certified Tech Developer**
 - ❤️ Apasionada con **Front-end**
 
----
+--
 
 <div align="left">
   <h3> 🛠 Lenguajes y Herramientas: </h3>
@@ -29,7 +29,7 @@
   </div>
 </div>
 
----
+--
 
 ### Mis estadísticas
 
