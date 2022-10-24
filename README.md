@@ -25,7 +25,7 @@
     <img scr="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img scr="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img scr="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PS" alt="PS" width="40" height="40"/>&nbsp;
-    <img scr="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
