@@ -9,9 +9,10 @@
 ---
 ### 👩‍💻 Sobre mi:
 
-- 📫 Puedes contactarme **karina.lopez.inf@gmail.com**
 - 🌱 Actualmente estudio **Certified Tech Developer**
 - ❤️ Apasionada del **Front-end**
+- 📫 Contáctame **karina.lopez.inf@gmail.com**
+- 💭 Visita mi perfil de LinkedIn **https://bit.ly/karinalopezurzua**
 
 ---
 
